@@ -24,7 +24,7 @@ Hello, I'm a second-year CSE student - proficient in Python, full-stack web deve
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Vivek3500"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Vivek3500&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ef4444&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="Vivek3500's GitHub stats" /></a>
+<a href="http://www.github.com/Vivek3500"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Vivek3500&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ef4444&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="Vivek3500's GitHub stats" height="150" alt="stats graph" /></a>
 
-<a href="http://www.github.com/Vivek3500"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Vivek3500&stroke=ef4444&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ef4444&currStreakLabel=ef4444&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
+<a href="http://www.github.com/Vivek3500"> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Vivek3500&stroke=ef4444&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ef4444&currStreakLabel=ef4444&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true"  height="150" alt="streak graph" /> </a>
 
