@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vivek
 =============================================================================================================================
 
-Hello, I'm a second-year CSE student - proficient in Python, full-stack web development, and C++. I'm currently pursuing my B.Tech in E-Commerce at Vellore Institute of Technology, Bhopal. In my journey, I've already delved into Python, full-stack web development, and C++. I look forward to applying these skills in real-world scenarios and contributing to innovative projects.
+Hello, I'm a 3rd-year CSE student - proficient in Python, full-stack web development, and C++. I'm currently pursuing my B.Tech in E-Commerce at Vellore Institute of Technology, Bhopal. In my journey, I've already delved into Python, full-stack web development, and C++. I look forward to applying these skills in real-world scenarios and contributing to innovative projects.
 
 * 🌍  I'm based in DELHI, INDIA
 * ✉️  You can contact me at [vivekkumarmishra2022@vitbhopal.ac.in](mailto:vivekkumarmishra2022@vitbhopal.ac.in)
